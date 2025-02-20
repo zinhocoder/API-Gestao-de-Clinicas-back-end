@@ -1,5 +1,5 @@
 Gestão de Clínicas - Back-end
-Este é o back-end da aplicação Gestão de Clínicas, uma API desenvolvida em Node.js com Express e Sequelize para gerenciar agendamentos, prontuários, estoque e finanças de clínicas médicas.
+Este é o back-end da aplicação Gestão de Clínicas, uma API desenvolvida em Node.js com Express, Sequelize e PostgreSQL para gerenciar agendamentos, prontuários, estoque e finanças de clínicas médicas.
 
 Sumário
 Funcionalidades
@@ -238,4 +238,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 
 Feito com ❤️ por Roberto.
 
-Esse README está completo e organizado, cobrindo todos os aspectos importantes do projeto. Se precisar de mais ajustes ou informações adicionais, é só avisar! 
+Esse README está completo e organizado, cobrindo todos os aspectos importantes do projeto. Se precisar de mais ajustes ou informações adicionais, é só avisar! 😊
+
